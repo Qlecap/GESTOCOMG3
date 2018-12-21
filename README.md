@@ -23,7 +23,8 @@ Le projet comporte 3 dossiers :
 - sql ->Contient l'historique de tous les scripts (SQL ou PHP) qui ont modifié la BDD.
 - Gestocom -> Contient le code source de l'application
 
-Le trello utilisé pour le projet est disponible ici : https://trello.com/b/y0GAvinr
+Le trello utilisé pour le projet en groupe est disponible ici : https://trello.com/b/y0GAvinr
+Et la nouvelle version personnel est disponible ici : https://trello.com/b/26ywExRx/gestcom
 
 # Objectif de l'application
 
